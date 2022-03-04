@@ -50,6 +50,10 @@ START-OF-SELECTION.
 WRITE 'Ich bin ein Dummes Programm'.
 WRITE 'und Kevin is(s)t ein Berliner'.
 
+WRITE / 'Banana'.
+
+Write / 'Im the Goat'.
+
 *---------------------------------------------------------------------*
 END-OF-SELECTION.
 *---------------------------------------------------------------------*
